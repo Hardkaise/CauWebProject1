@@ -1,0 +1,16 @@
+#main-content {
+    background-color:#FAFAFA;
+    width: 100vw;
+    height: 100vh;
+}
+
+.layout-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.layout-row {
+    display: flex;
+    flex-direction: row;
+}
