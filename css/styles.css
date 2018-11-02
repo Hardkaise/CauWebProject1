@@ -18,6 +18,7 @@
 section#calculator {
     border: 1px groove black;
     padding: 1.5%;
+    position: relative;
 }
 
 .body-calculator {
@@ -48,4 +49,8 @@ section#calculator {
     text-align: center;
     background: lightcyan;
     border: 1px groove black;
+}
+
+input[type="text"] {
+    width: 100%;
 }
