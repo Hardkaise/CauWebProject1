@@ -1,6 +1,6 @@
 CAUCalculator
 
-Write an interative calculator program providing the following features using HTML, CSS, and Javascript.
+Write an interactive calculator program providing the following features using HTML, CSS, and Javascript.
 
 Function:
 
