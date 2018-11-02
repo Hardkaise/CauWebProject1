@@ -14,3 +14,38 @@
     display: flex;
     flex-direction: row;
 }
+
+section#calculator {
+    border: 1px groove black;
+    padding: 1.5%;
+}
+
+.body-calculator {
+    padding-top: 10%;
+}
+
+.calculator-digit {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 5%
+}
+
+.calculator-operator {
+    padding-top: 15%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 5%
+}
+
+.calculator-action {
+    padding-top: 15%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 5%
+}
+
+.button {
+    text-align: center;
+    background: lightcyan;
+    border: 1px groove black;
+}
